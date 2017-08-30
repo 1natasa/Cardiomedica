@@ -1,0 +1,23 @@
+{
+  "name": "cardiomedica",
+  "version": "1.0.0",
+  "description": "cardiomedica website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1natasa/Cardiomedica.git"
+  },
+  "author": "Natasa Bosnjak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1natasa/Cardiomedica/issues"
+  },
+  "homepage": "https://github.com/1natasa/Cardiomedica#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.9"
+  }
+}
